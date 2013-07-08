@@ -1,4 +1,4 @@
-Mine4Dead Resource_Pack
+Mine4Dead Resource Pack
 ======================================
 
 Minecraft 1.6.1 resource pack for the Mine4Dead map
